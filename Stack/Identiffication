@@ -1,0 +1,3 @@
+How to Identify A Stack Problem:-
+1. If Array is present then thhink about using stack
+2. Brute force O(n^2)
